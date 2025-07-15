@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/coffee-books-shop/static/css/main.4a1e2816.css",
+    "main.css": "/coffee-books-shop/static/css/main.5008c131.css",
     "main.js": "/coffee-books-shop/static/js/main.1b8861eb.js",
     "static/js/453.8b306300.chunk.js": "/coffee-books-shop/static/js/453.8b306300.chunk.js",
     "static/media/cafeGlace.png": "/coffee-books-shop/static/media/cafeGlace.942a0eb00164b364d02b.png",
@@ -13,12 +13,12 @@
     "static/media/americano.jpg": "/coffee-books-shop/static/media/americano.2b32e3abd131a94e34f3.jpg",
     "static/media/logo-cbs.svg": "/coffee-books-shop/static/media/logo-cbs.76bd8bac3db263b01b45a7c5097f741a.svg",
     "index.html": "/coffee-books-shop/index.html",
-    "main.4a1e2816.css.map": "/coffee-books-shop/static/css/main.4a1e2816.css.map",
+    "main.5008c131.css.map": "/coffee-books-shop/static/css/main.5008c131.css.map",
     "main.1b8861eb.js.map": "/coffee-books-shop/static/js/main.1b8861eb.js.map",
     "453.8b306300.chunk.js.map": "/coffee-books-shop/static/js/453.8b306300.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a1e2816.css",
+    "static/css/main.5008c131.css",
     "static/js/main.1b8861eb.js"
   ]
 }
