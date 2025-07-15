@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/coffee-books-shop/static/css/main.4a1e2816.css",
+    "main.js": "/coffee-books-shop/static/js/main.1b8861eb.js",
+    "static/js/453.8b306300.chunk.js": "/coffee-books-shop/static/js/453.8b306300.chunk.js",
+    "static/media/cafeGlace.png": "/coffee-books-shop/static/media/cafeGlace.942a0eb00164b364d02b.png",
+    "static/media/lattecaramel.jpeg": "/coffee-books-shop/static/media/lattecaramel.b9e2ddcb71aff4aa1641.jpeg",
+    "static/media/cafeglacevanille.jpeg": "/coffee-books-shop/static/media/cafeglacevanille.bebc67644d8a2b2ce202.jpeg",
+    "static/media/moccacinococo.jpg": "/coffee-books-shop/static/media/moccacinococo.c83a598854c1c06b75a8.jpg",
+    "static/media/cafefiltre.jpg": "/coffee-books-shop/static/media/cafefiltre.c62aea2d5860e19d18db.jpg",
+    "static/media/expresso.jpg": "/coffee-books-shop/static/media/expresso.b75aed47756154748fbd.jpg",
+    "static/media/cappuccinovegan.jpg": "/coffee-books-shop/static/media/cappuccinovegan.426afa64db71ad45ccc7.jpg",
+    "static/media/americano.jpg": "/coffee-books-shop/static/media/americano.2b32e3abd131a94e34f3.jpg",
+    "static/media/logo-cbs.svg": "/coffee-books-shop/static/media/logo-cbs.76bd8bac3db263b01b45a7c5097f741a.svg",
+    "index.html": "/coffee-books-shop/index.html",
+    "main.4a1e2816.css.map": "/coffee-books-shop/static/css/main.4a1e2816.css.map",
+    "main.1b8861eb.js.map": "/coffee-books-shop/static/js/main.1b8861eb.js.map",
+    "453.8b306300.chunk.js.map": "/coffee-books-shop/static/js/453.8b306300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a1e2816.css",
+    "static/js/main.1b8861eb.js"
+  ]
+}
