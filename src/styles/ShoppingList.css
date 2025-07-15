@@ -1,0 +1,37 @@
+.cbs-shopping-list {
+    flex: 1;
+    margin-bottom: 10vh;
+}
+
+.cbs-coffee-list {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10vh 4vw;
+    justify-content: center;
+}
+.cbs-coffee-list li {
+    width: 23vw;
+    height: 50vh;
+    box-sizing: border-box;
+}
+.cbs-description-pack {
+    margin: 1vh 1vw;
+    overflow-wrap: break-word;
+    text-align: justify;
+}
+.addCartCTA {
+    background-color: var(--color_blue);
+    border: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 30%;
+    color: whitesmoke;
+    font-weight: bold;
+    margin: 1vh auto;
+    padding: 1vh 0.5vw;
+    letter-spacing: 0.1em;
+}
+.addCartCTA:hover{
+    opacity: 0.7;
+}
+

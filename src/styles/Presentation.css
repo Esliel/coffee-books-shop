@@ -1,0 +1,17 @@
+.section-presentation {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 2vh 6vw;
+    margin: 4vh 2vw;
+    font-size: 1.4em;
+    font-weight: 300;
+    background-color: whitesmoke;
+    
+}
+h2 {
+    margin-bottom: 2vh;
+    letter-spacing: 0.1em;
+}
+p {
+    margin-bottom: 1vh;
+    letter-spacing: 0.04em;
+}

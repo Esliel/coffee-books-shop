@@ -1,0 +1,40 @@
+.cbs-coffee-item-cover {
+	width: 40vh;
+	border-radius: 10%;
+	margin: 0.7vh 0 1vh 0;
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+	object-fit: cover;
+}
+.cbs-coffee-item {
+	padding: 1vh 1vw;
+	background-color: whitesmoke;
+	border-radius: 3%;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	position: relative;
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.cbs-coffee-item-name {
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 400;
+	font-size: 1.5em;
+	font-family: var(--font-family-title);
+	padding: 1vh 1vw;
+}
+.cbs-coffee-item-price {
+	position: absolute;
+	border-radius: 20px 20px 20px 0;
+	background-color: var(--color_blue);
+	color: white;
+	padding: 1.5vh 1vw;
+	right: -0.7vw;
+	top: -0.7vh;
+	font-weight: bold;
+}
+.edition-limitee {
+	color: var(--color_blue);
+	margin: auto;
+}
