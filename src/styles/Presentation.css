@@ -15,3 +15,14 @@ p {
     margin-bottom: 1vh;
     letter-spacing: 0.04em;
 }
+
+/* Responsive */
+/* Petits écrans PC (≤ 1024px) / tablettes */
+@media (max-width: 1024px) {
+    h2 {
+        letter-spacing: normal;
+    }
+    p {
+        letter-spacing: 0.1em;
+    }
+}
