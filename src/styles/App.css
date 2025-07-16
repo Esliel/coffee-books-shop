@@ -40,7 +40,7 @@ em {
     font-style: normal;
     font-weight: 500;
 }
-/* Responsive */
+/* ----------- Responsive ----------- */
 /* Smartphones */
 @media (max-width: 480px) {
   .flex-row {
