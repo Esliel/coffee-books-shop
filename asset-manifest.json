@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/coffee-books-shop/static/css/main.fc5bfad9.css",
-    "main.js": "/coffee-books-shop/static/js/main.1b8861eb.js",
+    "main.css": "/coffee-books-shop/static/css/main.ae6b422c.css",
+    "main.js": "/coffee-books-shop/static/js/main.fd1271dc.js",
     "static/js/453.8b306300.chunk.js": "/coffee-books-shop/static/js/453.8b306300.chunk.js",
     "static/media/cafeGlace.png": "/coffee-books-shop/static/media/cafeGlace.942a0eb00164b364d02b.png",
     "static/media/lattecaramel.jpeg": "/coffee-books-shop/static/media/lattecaramel.b9e2ddcb71aff4aa1641.jpeg",
@@ -13,12 +13,12 @@
     "static/media/americano.jpg": "/coffee-books-shop/static/media/americano.2b32e3abd131a94e34f3.jpg",
     "static/media/logo-cbs.svg": "/coffee-books-shop/static/media/logo-cbs.76bd8bac3db263b01b45a7c5097f741a.svg",
     "index.html": "/coffee-books-shop/index.html",
-    "main.fc5bfad9.css.map": "/coffee-books-shop/static/css/main.fc5bfad9.css.map",
-    "main.1b8861eb.js.map": "/coffee-books-shop/static/js/main.1b8861eb.js.map",
+    "main.ae6b422c.css.map": "/coffee-books-shop/static/css/main.ae6b422c.css.map",
+    "main.fd1271dc.js.map": "/coffee-books-shop/static/js/main.fd1271dc.js.map",
     "453.8b306300.chunk.js.map": "/coffee-books-shop/static/js/453.8b306300.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc5bfad9.css",
-    "static/js/main.1b8861eb.js"
+    "static/css/main.ae6b422c.css",
+    "static/js/main.fd1271dc.js"
   ]
 }
