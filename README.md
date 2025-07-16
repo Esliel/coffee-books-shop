@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+/!\ this project is still under construction /!\
+
 ## Brief project description
 
 This FrontEnd project is my first project in React. The concept is to create a website that sells blindboxes containing a book + associated coffee recipe + ingredients needed to make the recipe.
