@@ -56,3 +56,15 @@ h3 {
 	display: block;
 	margin-bottom: 1vh;
 }
+
+/* Responsive */
+/* Smartphones */
+@media (max-width: 480px) {
+    .cbs-cart {
+        width: 100%;
+        height: 40vh;         /* Hauteur fixe */
+        max-height: 50vh;     /* Hauteur maximale */
+        min-height: 30vh;     /* Hauteur minimale */
+        overflow-y: auto;     /* Scroll si le contenu dépasse */
+    }
+}

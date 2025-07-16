@@ -40,3 +40,10 @@ em {
     font-style: normal;
     font-weight: 500;
 }
+/* Responsive */
+/* Smartphones */
+@media (max-width: 480px) {
+  .flex-row {
+    flex-direction: column;
+  }
+}
