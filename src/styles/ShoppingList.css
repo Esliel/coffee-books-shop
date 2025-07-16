@@ -12,7 +12,7 @@
 }
 .cbs-coffee-list li {
     width: 23vw;
-    height: 50vh;
+    height: auto;
     box-sizing: border-box;
 }
 .cbs-description-pack {

@@ -14,7 +14,11 @@ function CoffeeItem({ id, cover, name, cafeine, intensite, editionLimitee, price
 				))}
 			</span>
 			<span className='cbs-coffee-item-price'>{price} €</span>
-			{editionLimitee === true && <span className="edition-limitee">Edition Limitée</span>}
+			{editionLimitee === true ? (
+				<span className="edition-limitee">Edition Limitée</span>
+			) : (
+				<span className="edition-limitee" style={{ visibility: 'hidden' }}>Edition Limitée</span>
+			)}
 			<img className='cbs-coffee-item-cover' src={cover} alt={`${name} cover`} />
 			<p className='cbs-description-pack'>
 				{description} 
