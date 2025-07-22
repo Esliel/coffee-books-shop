@@ -1,6 +1,6 @@
 // function Scales({ scaleValue, type }) {
 //     const range = [1, 2, 3]
-    
+
 //     let symbol;
 //         switch (type) {
 //             case 'intensite':

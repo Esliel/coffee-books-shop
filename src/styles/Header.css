@@ -1,69 +1,73 @@
 .cbs-banner {
-    color: var(--color_whitesmoke);
-	text-align: right;
-	font-size: 2em;
-	background: linear-gradient(90deg,rgba(66, 45, 37, 0.75) 0%, var(--color_brown) 100%);
+  color: var(--color_whitesmoke);
+  text-align: right;
+  font-size: 2em;
+  background: linear-gradient(
+    90deg,
+    rgba(66, 45, 37, 0.75) 0%,
+    var(--color_brown) 100%
+  );
 }
 .logo_title {
-	display: flex;
-	justify-content: space-between;
-	flex-direction: row;
-	align-items: center;
-	color: var(--color_blue);
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  color: var(--color_blue);
 }
 img {
-    height: 30vh;
+  height: 30vh;
 }
 h1 {
-    font-size: 3.5em;
+  font-size: 3.5em;
 }
 .slogan-periode {
-	padding: 0 0.7vw 0.7vh 0;
-	font-weight: 100;
+  padding: 0 0.7vw 0.7vh 0;
+  font-weight: 100;
 }
 
 /* ----------- Responsive ----------- */
 /* Tablettes (paysage) */
 @media (max-width: 1200px) and (orientation: landscape) {
-    h1 {
-        font-size: 6vw;
-        text-align: center;
-		margin-bottom: 0;
-    }
-	img {
-        height: 25vh;
-        max-width: 80vw;
-		margin-bottom: 0;
-    }
-	.slogan-periode {
-		margin-top: -4vh;
-	}
+  h1 {
+    font-size: 6vw;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  img {
+    height: 25vh;
+    max-width: 80vw;
+    margin-bottom: 0;
+  }
+  .slogan-periode {
+    margin-top: -4vh;
+  }
 }
 /* Smartphones */
 @media (max-width: 480px) {
-    .cbs-banner {
-        font-size: 1.2em;
-        text-align: center;
-        padding: 0.5em 0;
-    }
-    .logo_title {
-        flex-direction: column;
-        align-items: center;
-        gap: 0.5em;
-    }
-    img {
-        height: 15vh;
-        max-width: 80vw;
-    }
-    h1 {
-        font-size: 2em;
-        text-align: center;
-		margin-top: -2vh;
-    }
-    .slogan-periode {
-        font-size: 1em;
-        padding: 0.5em 0;
-        text-align: center;
-		margin-top: -1vh;
-    }
+  .cbs-banner {
+    font-size: 1.2em;
+    text-align: center;
+    padding: 0.5em 0;
+  }
+  .logo_title {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5em;
+  }
+  img {
+    height: 15vh;
+    max-width: 80vw;
+  }
+  h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-top: -2vh;
+  }
+  .slogan-periode {
+    font-size: 1em;
+    padding: 0.5em 0;
+    text-align: center;
+    margin-top: -1vh;
+  }
 }

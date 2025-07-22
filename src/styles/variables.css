@@ -1,11 +1,10 @@
 :root {
-    /* Colors */
-    --color_blue: #3a7ead;
-    --color_brown: #422d25;
-	--color_whitesmoke: rgb(243, 234, 218);
+  /* Colors */
+  --color_blue: #3a7ead;
+  --color_brown: #422d25;
+  --color_whitesmoke: rgb(243, 234, 218);
 
-    /* Font */
-    --font-family-title: 'Playfair', serif;
-    --font-family-text: 'Playfair', sans-serif;
-
+  /* Font */
+  --font-family-title: 'Playfair', serif;
+  --font-family-text: 'Playfair', sans-serif;
 }

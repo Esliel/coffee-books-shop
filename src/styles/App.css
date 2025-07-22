@@ -21,24 +21,28 @@
   flex-direction: row;
 }
 
-
 /* Font */
-body{
-    font-family: var(--font-family-text);
-    background-color: var(--color_whitesmoke);
-    color: var(--color_brown);
-    font-size: 1em;
+body {
+  font-family: var(--font-family-text);
+  background-color: var(--color_whitesmoke);
+  color: var(--color_brown);
+  font-size: 1em;
 }
-h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-family-title);
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-family-title);
 }
 small {
-    font-size: small;
+  font-size: small;
 }
 em {
-    color: var(--color_blue);
-    font-style: normal;
-    font-weight: 500;
+  color: var(--color_blue);
+  font-style: normal;
+  font-weight: 500;
 }
 /* ----------- Responsive ----------- */
 /* Smartphones */
