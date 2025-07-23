@@ -1,12 +1,11 @@
-// import cafe from '../assets/cafe.jpg'
-import cappuccinoVegan from '../assets/cappuccinovegan.jpg'
-import mocaccinoCoco from '../assets/moccacinococo.jpg'
-import cafeGlaceVanille from '../assets/cafeglacevanille.jpeg'
-import expresso from '../assets/expresso.jpg'
-import cafeGlace from '../assets/cafeGlace.png'
-import latteCaramel from '../assets/lattecaramel.jpeg'
-import cafeFiltre from '../assets/cafefiltre.jpg'
-import americano from '../assets/americano.jpg'
+import cappuccinoVegan from 'assets/cappuccinovegan.jpg'
+import mocaccinoCoco from 'assets/moccacinococo.jpg'
+import cafeGlaceVanille from 'assets/cafeglacevanille.jpeg'
+import expresso from 'assets/expresso.jpg'
+import cafeGlace from 'assets/cafeGlace.png'
+import latteCaramel from 'assets/lattecaramel.jpeg'
+import cafeFiltre from 'assets/cafefiltre.jpg'
+import americano from 'assets/americano.jpg'
 
 export const coffeeList = [
   {

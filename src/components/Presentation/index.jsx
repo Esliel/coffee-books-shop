@@ -1,4 +1,4 @@
-import '../styles/Presentation.css'
+import 'styles/Presentation.css'
 
 function Presentation() {
   return (

@@ -1,12 +1,12 @@
 import React from 'react'
 import { useState } from 'react'
-import '../styles/Cart.css'
+import 'styles/Cart.css'
 
 function Cart({ cart, updateCart }) {
   const [isOpen, setIsOpen] = useState(true)
   const total = cart.reduce(
     (acc, coffeeType) => acc + coffeeType.amount * coffeeType.price,
-    0
+    0,
   )
 
   return isOpen ? (

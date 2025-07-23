@@ -1,5 +1,5 @@
-// import Scales from './Scales'
-import '../styles/CoffeeItem.css'
+// import Scales from 'components/Scales'
+import 'styles/CoffeeItem.css'
 import React from 'react'
 
 function CoffeeItem({

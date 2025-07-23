@@ -1,5 +1,5 @@
-import '../styles/Header.css'
-import logo from '../assets/logo-cbs.svg'
+import 'styles/Header.css'
+import logo from 'assets/logo-cbs.svg'
 
 function Header() {
   const title = 'Coffee & Books Shop'

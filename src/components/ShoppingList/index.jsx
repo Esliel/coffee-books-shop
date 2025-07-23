@@ -1,21 +1,21 @@
 import { useState } from 'react'
-import { coffeeList } from '../data/coffeeList.js'
-import CoffeeItem from './CoffeeItem.js'
-import Categories from './Categories'
-import '../styles/ShoppingList.css'
+import { coffeeList } from 'data/coffeeList.jsx'
+import CoffeeItem from 'components/CoffeeItem'
+import Categories from 'components/Categories'
+import 'styles/ShoppingList.css'
 
 function ShoppingList({ cart, updateCart }) {
   const [activeCategory, setActiveCategory] = useState('')
   const categories = coffeeList.reduce(
     (acc, coffee) =>
       acc.includes(coffee.category) ? acc : acc.concat(coffee.category),
-    []
+    [],
   )
   function addToCart(name, price) {
     const currentCoffeeSaved = cart.find((coffee) => coffee.name === name)
     if (currentCoffeeSaved) {
       const cartFilteredCurrentCoffee = cart.filter(
-        (coffee) => coffee.name !== name
+        (coffee) => coffee.name !== name,
       )
       updateCart([
         ...cartFilteredCurrentCoffee,
@@ -65,7 +65,7 @@ function ShoppingList({ cart, updateCart }) {
                   Ajouter
                 </button>
               </li>
-            ) : null
+            ) : null,
         )}
       </ul>
     </section>
