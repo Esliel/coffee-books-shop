@@ -44,6 +44,18 @@ em {
   font-style: normal;
   font-weight: 500;
 }
+
+.butonNav {
+  background-color: var(--color_blue);
+  color: var(--color_whitesmoke);
+  border-radius: 15px;
+  padding: 0.8vh 0.8vw;
+  text-decoration: none;
+}
+.butonNav:hover {
+  opacity: 0.7;
+}
+
 /* ----------- Responsive ----------- */
 /* Smartphones */
 @media (max-width: 480px) {

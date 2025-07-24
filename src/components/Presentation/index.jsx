@@ -1,4 +1,6 @@
 import 'styles/Presentation.css'
+import 'styles/App.css'
+import { Link } from 'react-router-dom'
 
 function Presentation() {
   return (
@@ -15,6 +17,11 @@ function Presentation() {
         subtile entre la lecture et le café, pour{' '}
         <em>transformer chaque pause en un instant d’évasion.</em>
       </p>
+      <nav>
+        <Link className="butonNav" to="/Concept">
+          En savoir plus...
+        </Link>
+      </nav>
     </section>
   )
 }
